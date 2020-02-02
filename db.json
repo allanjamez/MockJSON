@@ -3,17 +3,17 @@
   "error_Message": null,
   "request_Id": "10035",
   "tote_Id": "QW211",
-  "action": "Ignore",
+  "action": "PTL",
   "data": [
     {
-      "sku": "1",
-      "qty": 1,
-      "order_Number": "1",
+      "sku": "1456",
+      "qty": 6,
+      "order_Number": "114",
       "lastPickForOrder": 1
     },
     {
-      "sku": "1",
-      "qty": 1,
+      "sku": "123",
+      "qty": 5,
       "order_Number": "1",
       "lastPickForOrder": 1
     }
